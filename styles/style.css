@@ -37,7 +37,7 @@ main {
   padding: 30px;
   border-radius: 10px;
   box-shadow:
-    4px 4px 15px #0001;
+    6px 6px 10px #0002;
 }
 /* Changing behavior for different cards */
 .testimonial__card_color_violet {
